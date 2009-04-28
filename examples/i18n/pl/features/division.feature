@@ -1,9 +1,9 @@
-Feature: Division
-  In order to avoid silly mistakes
-  Cashiers must be able to calculate a fraction
+Funkcja: Dzielenie
+  Aby uniknac glupich bledow
+  Kasier powinien umiec policzyc ulamek
 
-  Scenario: Regular numbers
-    Given I have entered 3 into the calculator
-    And I have entered 2 into the calculator
-    When I press divide
-    Then the result should be 1.5 on the screen
+  Scenariusz: Liczby calkowite
+    Gdy wpisze 3 do kalkulatora
+    Oraz wpisze 2 do kalkulatora
+    Kiedy wcisne divide
+    Wtedy rezultat 1.5 powinien pojawic sie na ekranie

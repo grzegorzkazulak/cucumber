@@ -482,4 +482,19 @@
   then: То
   and: И
   but: Но
-  space_after_keyword: true  
+  space_after_keyword: true 
+"pl":
+  name: Polish
+  native: Polish
+  encoding: UTF-8
+  feature: Funkcja
+  background: Background
+  scenario: Scenariusz
+  scenario_outline: Opis Scenariusza
+  examples: Przyklady|Scenariusze
+  given: Gdy
+  when: Kiedy
+  then: Wtedy
+  and: Oraz
+  but: Oprocz
+  space_after_keyword: true 
