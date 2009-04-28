@@ -3,9 +3,9 @@ Funkcja: Dodawanie
   Jako matematyczny idiota
   Chce poznac sume dwoch liczb
 
-  Opis scenariusza: Dodaj dwie liczby
+  Opis Scenariusza: Dodaj dwie liczby
     Gdy wpisze <input_1> do kalkulatora
-    Oraz wpisalem <input_2> do kalkulatora
+    Oraz wpisze <input_2> do kalkulatora
     Kiedy wcisnę <button>
     Wtedy wynik <output> powinien pojawic sie na ekranie
 
